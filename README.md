@@ -1,5 +1,5 @@
 # 🏎️ Project E36: Engineering & Restoration Log
-<img width="900" height="1600" alt="WhatsApp Image 2026-05-23 at 12 16 57 PM" src="https://github.com/user-attachments/assets/fa3a1221-8543-4b6a-918a-1d5c001a2682" />
+<img width="450" height="800" alt="WhatsApp Image 2026-05-23 at 12 16 57 PM" src="https://github.com/user-attachments/assets/fa3a1221-8543-4b6a-918a-1d5c001a2682" />
 
 
 Welcome to my technical build and restoration log for a **1993 BMW E36**. Rather than just a standard project car journey, this repository serves as an engineering case study. 
