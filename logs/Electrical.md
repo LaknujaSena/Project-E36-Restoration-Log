@@ -1,4 +1,4 @@
-**2026/05/30 - Electrical System Repairs & Wiring**
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-30 at 1 07 30 PM" src="https://github.com/user-attachments/assets/c673705c-bd5b-481a-9c24-812de29af19b" />**2026/05/30 - Electrical System Repairs & Wiring**
 
 **Diagnostics & Wiring Repairs:**
 - Repaired wiring short circuit causing a parasitic battery drain.
@@ -17,4 +17,6 @@
 - Fuse holders (x2)
 - Relays - 3747 (x2)
 
-<img width="960" height="1280" alt="WhatsApp Image 2026-05-30 at 1 06 05 PM" src="https://github.com/user-attachments/assets/652a3734-fe05-4460-8830-7a14dc7787cb" />
+<img width="480" height="640" alt="WhatsApp Image 2026-05-30 at 1 06 05 PM" src="https://github.com/user-attachments/assets/652a3734-fe05-4460-8830-7a14dc7787cb" />
+
+<img width="600" height="800" alt="WhatsApp Image 2026-05-30 at 1 07 30 PM" src="https://github.com/user-attachments/assets/ad5ac1c3-0fc5-403e-bfeb-2241c50e071b" />
