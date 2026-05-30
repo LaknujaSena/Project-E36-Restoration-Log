@@ -1,5 +1,3 @@
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-30 at 1 07 30 PM" src="https://github.com/user-attachments/assets/c673705c-bd5b-481a-9c24-812de29af19b" />**2026/05/30 - Electrical System Repairs & Wiring**
-
 **Diagnostics & Wiring Repairs:**
 - Repaired wiring short circuit causing a parasitic battery drain.
 - Resolved ZKE IV (General Module) sleep failure and main live short.
