@@ -16,3 +16,5 @@
 - 14 AWG & 20 AWG wiring
 - Fuse holders (x2)
 - Relays - 3747 (x2)
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-05-30 at 1 06 05 PM" src="https://github.com/user-attachments/assets/652a3734-fe05-4460-8830-7a14dc7787cb" />
