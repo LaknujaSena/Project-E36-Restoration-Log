@@ -1,9 +1,9 @@
-2026/05/30
+## 2026/05/30
 
 Changed the engine oil (Mobil Super 10W-30) and flushed out the old, discolored oil.
 Replaced the oil filter (Bosch).
 
-Engine tune-up:
+## Engine tune-up:
   - Cleaned fuel injectors
   - Cleaned intake manifold
   - Cleaned throttle body, idle air valve, MAP sensor, and air flow sensor
